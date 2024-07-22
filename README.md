@@ -1,2 +1,2 @@
-# how-to-start
-Define basic steps what should be done in repository to start feature development
+# How to start new project
+* [Front-end checklist](https://github.com/Ilya-Valasiuk/how-to-start/blob/main/front-end/README.md) 
